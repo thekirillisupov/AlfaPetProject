@@ -34,3 +34,4 @@ Hi! This is my pet project using data from AlfaBattle competition. Part of the c
     - сдвиг по времени
     - несбалансированные классы
     - размер бакетов и неравномерное разбиение по батчам
+    - ансамбль нейронок из разных эпох с весами
